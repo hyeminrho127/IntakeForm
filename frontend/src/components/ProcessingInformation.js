@@ -34,7 +34,6 @@ function ProcessingInformation() {
             type="text"
             id="dateOfLastArrival"
             name="dateOfLastArrival"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -68,7 +67,6 @@ function ProcessingInformation() {
             type="text"
             id="passportNumber"
             name="passportNumber"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -78,7 +76,6 @@ function ProcessingInformation() {
             type="text"
             id="datePassportIssued"
             name="datePassportIssued"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -88,7 +85,6 @@ function ProcessingInformation() {
             type="text"
             id="datePassportExpires"
             name="datePassportExpires"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -98,7 +94,6 @@ function ProcessingInformation() {
             type="text"
             id="passportOfIssuance"
             name="passportOfIssuance"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -108,7 +103,6 @@ function ProcessingInformation() {
             type="text"
             id="currentNonimmigrantStatus"
             name="currentNonimmigrantStatus"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -118,7 +112,6 @@ function ProcessingInformation() {
             type="text"
             id="dateStatusExpires"
             name="dateStatusExpires"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -128,7 +121,6 @@ function ProcessingInformation() {
             type="text"
             id="sevis"
             name="sevis"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -138,7 +130,6 @@ function ProcessingInformation() {
             type="text"
             id="ead"
             name="ead"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -152,7 +143,6 @@ function ProcessingInformation() {
             type="text"
             id="streetNumber"
             name="streetNumber"
-            // Add value and onChange as needed for other fields
           />
         </div>
 
@@ -178,7 +168,6 @@ function ProcessingInformation() {
             type="text"
             id="number"
             name="number"
-            // Add value and onChange as needed for other fields
           />
           </div>
 
@@ -188,7 +177,6 @@ function ProcessingInformation() {
             type="text"
             id="cityOrTown"
             name="cityOrTown"
-            // Add value and onChange as needed for other fields
           />
           </div>
 
@@ -198,7 +186,6 @@ function ProcessingInformation() {
             type="text"
             id="state"
             name="state"
-            // Add value and onChange as needed for other fields
           />
           </div>
 
@@ -208,7 +195,6 @@ function ProcessingInformation() {
             type="text"
             id="zipCode"
             name="zipCode"
-            // Add value and onChange as needed for other fields
           />
           </div>    </div>
   );
